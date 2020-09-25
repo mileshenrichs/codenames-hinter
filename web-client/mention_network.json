@@ -1,0 +1,45 @@
+{
+    "nodes": [
+        {
+            "word": "oil",
+            "team": "red"
+        },
+        {
+            "word": "gasoline",
+            "team": "none"
+        },
+        {
+            "word": "wick",
+            "team": "none"
+        },
+        {
+            "word": "rock",
+            "team": "blue"
+        },
+        {
+            "word": "granite",
+            "team": "none"
+        },
+        {
+            "word": "sound",
+            "team": "assassin"
+        }
+    ],
+    "links": [
+        {
+            "source": "oil",
+            "target": "gasoline",
+            "similarity": 107.93048
+        },
+        {
+            "source": "oil",
+            "target": "wick",
+            "similarity": 84.37614
+        },
+        {
+            "source": "rock",
+            "target": "granite",
+            "similarity": 127.127525
+        }
+    ]
+}
